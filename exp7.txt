@@ -2,3 +2,103 @@ Experiment 7 -
 Download Wireshark
 Then open browsers(instagram, facebook, anything) and accordingly you will get 
 Http, udp and tcp for it and show it to ma'am 
+
+
+
+
+---
+
+# 🧪 Experiment 7: Network Traffic Analysis using Wireshark and Capsa
+
+## Aim
+
+To capture and analyze network traffic using Wireshark and Capsa.
+
+---
+
+## Requirements
+
+* Wireshark installed
+* Capsa (optional)
+
+---
+
+## Procedure (Wireshark – Packet Capture)
+
+### Step 1: Open Wireshark
+
+---
+
+### Step 2: Select network interface
+
+* Choose Wi-Fi / Ethernet
+
+---
+
+### Step 3: Start capturing packets
+
+* Click on the blue shark fin icon
+
+---
+
+### Step 4: Generate network traffic
+
+* Open browser and visit any website
+
+---
+
+### Step 5: Stop capture
+
+* Click red stop button
+
+---
+
+## Procedure (Packet Analysis)
+
+### Step 6: Select any packet
+
+---
+
+### Step 7: Observe details
+
+* Source IP Address
+* Destination IP Address
+* Protocol (TCP/HTTP/DNS)
+
+---
+
+## Procedure (Capsa)
+
+### Step 8: Open Capsa
+
+---
+
+### Step 9: Start capture
+
+---
+
+### Step 10: Observe graphical traffic analysis
+
+---
+
+## Output
+
+* List of captured packets displayed
+* Packet details visible in lower panel
+* Traffic graphs (in Capsa)
+
+---
+
+## Result
+
+Successfully captured and analyzed network traffic.
+
+---
+
+## Viva Points
+
+* Wireshark captures live network packets
+* Used for troubleshooting and security analysis
+
+---
+
