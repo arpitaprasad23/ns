@@ -1,0 +1,4 @@
+whois dypatil.edu  OR whois.com (website) 
+tracert google.com (cmd)
+dig dypatil.edu OR dnschecker.org (website)
+nslookup dypatil.edu 
