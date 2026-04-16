@@ -1,0 +1,78 @@
+
+
+---
+
+# 🧪 Experiment 5: Personal Firewall using iptables
+
+## Aim
+
+To configure a host-based firewall using iptables and block network traffic on a specific port.
+
+---
+
+## Requirements
+
+* Linux system (Ubuntu/Kali)
+* Root or sudo access
+
+---
+
+## Procedure
+
+### Step 1: Open Terminal
+
+---
+
+### Step 2: View existing firewall rules
+
+```bash
+sudo iptables -L
+```
+
+---
+
+### Step 3: Add rule to block HTTP (port 80)
+
+```bash
+sudo iptables -A INPUT -p tcp --dport 80 -j DROP
+```
+
+---
+
+### Step 4: Verify rule is applied
+
+```bash
+sudo iptables -L
+```
+
+---
+
+### Step 5 (Optional): Remove the rule
+
+```bash
+sudo iptables -D INPUT -p tcp --dport 80 -j DROP
+```
+
+---
+
+## Output
+
+* Firewall rule appears in iptables list
+* Port 80 traffic is blocked
+
+---
+
+## Result
+
+Successfully configured a firewall rule to block incoming traffic on port 80.
+
+---
+
+## Viva Points
+
+* iptables is used to configure Linux firewall rules
+* It filters traffic based on ports, protocols, and IP addresses
+
+---
+
+
