@@ -1,0 +1,4 @@
+Experiment 7 -
+Download Wireshark
+Then open browsers(instagram, facebook, anything) and accordingly you will get 
+Http, udp and tcp for it and show it to ma'am 
