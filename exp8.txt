@@ -1,0 +1,70 @@
+---
+
+# 🧪 Experiment 8: OSSIM and Network Security Monitoring
+
+## Aim
+
+To monitor security events and analyze vulnerabilities using OSSIM.
+
+---
+
+## Requirements
+
+* OSSIM platform access
+
+---
+
+## Procedure (Incident Monitoring)
+
+### Step 1: Open OSSIM dashboard
+
+---
+
+### Step 2: Navigate to “Alarms” or “Events”
+
+---
+
+### Step 3: View triggered alerts
+
+---
+
+### Step 4: Analyze event details
+
+---
+
+## Procedure (Vulnerability Management)
+
+### Step 5: Run vulnerability scan (if available)
+
+---
+
+### Step 6: View detected vulnerabilities
+
+---
+
+## Procedure (NLB – Conceptual)
+
+### Step 7: Understand load balancing
+
+* Traffic distributed across multiple servers
+
+---
+
+## Output
+
+* Security alerts displayed
+* Vulnerabilities listed with severity levels
+
+---
+
+## Result
+
+Successfully monitored network events and analyzed vulnerabilities.
+
+---
+
+## Viva Points
+
+* OSSIM is a SIEM tool
+* Used for threat detection and monitoring
+* NLB ensures high availability
